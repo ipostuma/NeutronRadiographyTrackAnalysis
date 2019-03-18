@@ -1,0 +1,1 @@
+../lib/TIF2JPG.sh
